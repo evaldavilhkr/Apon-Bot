@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "tammi-bot",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
+    "100082215656149",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100082215656149",
     ""
   ],
   "OWNER": ["100000959749712"], 
