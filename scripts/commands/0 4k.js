@@ -1,15 +1,15 @@
 module.exports.config = {
 name: '4k',
-version: '0.0.5',
+version: '0.0.1',
 hasPermssion: 0,
-credits: 'BADOL-KHAN',
+credits: 'apon-bot',
 description: 'Tăng chất lượng ảnh lên 4k',
 usePrefix: false,
 commandCategory: 'Ảnh',
 usages: '[image]',
 cooldowns: 3
 
-};
+}
 
 let eta = 3;
 
