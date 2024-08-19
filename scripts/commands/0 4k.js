@@ -1,13 +1,15 @@
 module.exports.config = {
-    name: "HD",
-    version: "1.0.5",
-    permission: 0,
-    prefix: false,
-    credits: "Deku",
-    description: "normal photo to convert 4k",
-    category: "[image]",
-    cooldowns: 2
-}
+name: '4k',
+version: '0.0.5',
+hasPermssion: 0,
+credits: 'BADOL-KHAN',
+description: 'Tăng chất lượng ảnh lên 4k',
+usePrefix: false,
+commandCategory: 'Ảnh',
+usages: '[image]',
+cooldowns: 3
+
+};
 
 let eta = 3;
 
