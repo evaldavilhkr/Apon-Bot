@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "delet",
+	name: "uns",
 	version: "1.0.5",
 	permission: 2,
 	credits: "Nayan",
@@ -7,7 +7,7 @@ module.exports.config = {
 	description: "ban or unblock users",
 	category: "admin",
 	usages: " ",
-	cooldowns: 5
+	cooldowns: 0
 };
 
 
