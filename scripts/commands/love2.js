@@ -1,8 +1,3 @@
-/**
-* @author Mohammad Nayan
-* @warn Do not edit code or edit credits
-*/
-
 module.exports.config = {
   name: "love2", 
   version: "1.0.0", 
