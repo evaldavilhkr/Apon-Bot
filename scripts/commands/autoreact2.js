@@ -1,12 +1,20 @@
-module.exports.config = {
-	name: "autoreact",
-	version: "1.1.1",
-	hasPermission: 0,
-	credits: "Priyansh Rajput",
-	description: "Bot React",
-	commandCategory: "No Prefix",
-	cooldowns: 0,
-};
+module.exports = {
+config: {
+  name: "autoreact",
+  version: "1.0.0",
+  permission: 0,
+  credits: "nayan",
+  description: "",
+  prefix: 'awto', 
+  category: "auto", 
+  usages: "[on]",
+  cooldowns: 0,
+  dependencies: {
+    "request": "",
+    "fs-extra": "",
+    "axios": ""
+  }
+},
 const fs = require("fs");
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
