@@ -13,11 +13,11 @@ module.exports.config = {
 
 module.exports.languages = {
 	"vi": {
-		"returnCant": "Không thể gỡ tin nhắn của người khác.",
+		"returnCant": "bất kỳ ai cũng có thể hủy gửi tin nhắn.",
 		"missingReply": "Hãy reply tin nhắn cần gỡ."
 	},
 	"en": {
-		"returnCant": "Can't to unsend message from other user.",
+		"returnCant": "anyone can be unsend message.",
 		"missingReply": "Reply to the message you want to unsend."
 	}
 }
