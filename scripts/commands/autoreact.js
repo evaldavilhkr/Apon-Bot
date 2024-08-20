@@ -10,8 +10,8 @@ config: {
   description: "",
   prefix: 'awto', 
   category: "auto", 
-  usages: "[off]/[on]",
-  cooldowns: 5,
+  usages: "[on]",
+  cooldowns: 1,
   dependencies: {
     "request": "",
     "fs-extra": "",
