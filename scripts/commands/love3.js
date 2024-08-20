@@ -1,8 +1,3 @@
-/**
-* @author Mohammad Nayan
-* @warn Do not edit code or edit credits
-*/
-
 module.exports.config = {
   name: "love3", 
   version: "1.0.0", 
@@ -12,7 +7,7 @@ module.exports.config = {
   prefix: true,
   category: "Love", 
   usages: "love3 @", 
-  cooldowns: 5,
+  cooldowns: 0,
   dependencies: {
         "axios": "",
         "fs-extra": "",
