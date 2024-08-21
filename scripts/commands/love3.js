@@ -6,8 +6,8 @@ module.exports.config = {
   description: "",
   prefix: true,
   category: "Love", 
-  usages: "love2 @", 
-  cooldowns: 5,
+  usages: "love3 @", 
+  cooldowns: 1,
   dependencies: {
         "axios": "",
         "fs-extra": "",
