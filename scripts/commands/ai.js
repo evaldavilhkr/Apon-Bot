@@ -6,7 +6,7 @@ module.exports = {
     credits: "Nayan",
     description: "",
     prefix: true,
-    category: "no prefix",
+    category: "user",
     usages: "query",
     cooldowns: 5,
     dependencies: {
