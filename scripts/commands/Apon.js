@@ -19,7 +19,7 @@ handleEvent: function({ api, event, client, __GLOBAL }) {
 	if (body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf("😒")==0) {
 		var msg = {
 				body: "আপন বস কে মেনশন করছেন কেন বস বিজি আছে🌺🥀",
-				attachment: "আপন বস কে মেনশন করছেন কেন বস বিজি আছে🌺🥀",
+				body: "আপন বস কে মেনশন করছেন কেন বস বিজি আছে🌺🥀",
 			}
 			api.sendMessage( msg, threadID, messageID);
     api.setMessageReaction("🙄", event.messageID, (err) => {}, true)
