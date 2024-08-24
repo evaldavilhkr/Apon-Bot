@@ -26,7 +26,7 @@ const media = (
     )
   ).data;
 
-	if (body.indexOf("🥰")==0 || body.indexOf("🤩")==0 || body.indexOf("😍")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0 || body.indexOf(" ")==0) {
+	if (body.indexOf("🥰")==0 || body.indexOf("🤩")==0 || body.indexOf("😍")==0 || body.indexOf("🥰")==0 || body.indexOf("🐸")==0 || body.indexOf("💔")==0 || body.indexOf("😈")==0 || body.indexOf("Apon")==0 || body.indexOf("@Apon Islam")==0 || body.indexOf(" ")==0) {
 		var msg = {
 				body: "🖤🥀",
 				attachment: media
