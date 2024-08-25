@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "Apon",
+    name: "ai",
     version: "1.0.0",
     permission: 0,
     credits: "Nayan",
