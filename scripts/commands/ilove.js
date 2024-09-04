@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
 	if (event.body.indexOf("apon")==0 || (event.body.indexOf("Apon")==0 || (event.body.indexOf("apon")==0 || (event.body.indexOf("Apon")==0)))) {
 		var msg = {
-				body: "জ্বী আমায় বলুন আপন বস বিজি আছে পরে কথা বলবে💚💚 <3"
+				body: " Apon Boss Tammi Vabir sathe busy asa😗👉👈 "
     }
 			api.sendMessage(msg, threadID, messageID);
 		}
