@@ -14,7 +14,7 @@ const tl = [
 const lang = "bn";
 
 module.exports.config = {
-  name: "tammi",
+  name: "Bot",
   version: "0.0.4",
   permission: 0,
   prefix: false,
