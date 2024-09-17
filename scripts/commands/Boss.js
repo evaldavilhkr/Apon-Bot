@@ -19,7 +19,7 @@ handleEvent: function({ api, event, client, __GLOBAL }) {
 	if (body.indexOf(" ")==0 || body.indexOf("🫣")==0 || body.indexOf("🤨")==0 || body.indexOf("🙄")==0) {
 		var msg = {
 				body: "এ্ঁদি্ঁক্ঁ ও্ঁদি্ঁক না্ঁ তা্ঁকা্ঁয়্ঁ আ্ঁমা্ঁর্ঁ আ্ঁপ্ঁন্ঁ ব্ঁস্ঁ এ্ঁর্ঁ দি্ঁক্ঁ তা্ঁকা্ঁও্ঁ🥰🥰",
-				attachment: fs.createReadStream(__dirname + `/Nayan/Mayabi.mp3`)
+				attachment: fs.createReadStream(__dirname + `/Nayan/Brenley3.mp3`)
 			}
 			api.sendMessage( msg, threadID, messageID);
     api.setMessageReaction("🥰", event.messageID, (err) => {}, true)
