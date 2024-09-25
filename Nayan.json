@@ -6,7 +6,7 @@
   "language": "en",
   "notification": false,
   "approval": false,
-  "saveState": true,
+  "saveState": false,
   "BOTNAME": "ಠ_ಠTAMMI-BOT2.0🤖💓💓",
   "PREFIX": ".",
   "OPERATOR": [
